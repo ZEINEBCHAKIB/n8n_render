@@ -10,7 +10,7 @@ services:
       - key: N8N_BASIC_AUTH_USER
         value: "admin"
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: "motdepassefort"
+        value: "ZEINEB@2005"
       - key: N8N_ENCRYPTION_KEY
         value: "ma_clef_ultra_secrete_123456"
       - key: N8N_PORT
@@ -18,11 +18,11 @@ services:
       - key: N8N_PROTOCOL
         value: "https"
       - key: N8N_HOST
-        value: "n8n-bayrohabot.onrender.com"
+        value: "n8n-render-10ug.onrender.com"
       - key: N8N_EDITOR_BASE_URL
-        value: "https://n8n-bayrohabot.onrender.com"
+        value: "https://n8n-render-10ug.onrender.com"
       - key: WEBHOOK_URL
-        value: "https://n8n-bayrohabot.onrender.com"
+        value: "https://n8n-render-10ug.onrender.com"
       - key: N8N_LICENSE_AUTO_ACCEPT
         value: "true"
       - key: N8N_DIAGNOSTICS_ENABLED
